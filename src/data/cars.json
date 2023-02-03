@@ -1,0 +1,59 @@
+[
+    
+        {
+        "id":1,
+        "name":"chevy",
+        "price":100,
+        "year":2011,
+        "contact":{
+            "dealer": "laith",
+            "number":"889-8978-7898"
+        }
+        },
+      
+    {
+        "id":2,
+        "name":"bentley",
+        "price":12200,
+        "year":2015,
+        "contact":{
+            "dealer": "sam",
+            "number":"222-777-333"
+        }
+    },
+      
+    {
+        "id":3,
+        "name":"ford",
+        "price":200,
+        "year":2010,
+
+        "contact":{
+            "dealer": "joghn",
+            "number":"889-999-7898"
+        }
+       }, 
+
+       {
+        "id":4,
+        "name":"honda",
+        "price":1200,
+        "year":2008,
+        "contact":{
+            "dealer": "poui",
+            "number":"889-8989-7898"
+        }
+       },
+         
+    {
+        "id":5,
+        "name":"landrover",
+        "price":990,
+        "year":2016,
+        "contact":{
+            "dealer": "laith",
+            "number":"889-8978-7898"
+        }
+       }
+
+]
